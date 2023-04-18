@@ -1,6 +1,5 @@
 <script setup>
 import { RouterView } from "vue-router";
-// import QuizesView from './views/QuizesView.vue'
 </script>
 
 <template>
@@ -10,7 +9,8 @@ import { RouterView } from "vue-router";
       <small>
         made @ 
         <a href="https://jorbbey.netlify.app" class="text-green-600 decoration-slice cursor-pointer">Jorbbey</a>
-        <p class="capitalize text-semibold">all right reserved</p></small
+        <p class="capitalize text-semibold">all right reserved</p>
+        </small
       >
     </footer>
   </div>
